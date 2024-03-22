@@ -1,0 +1,37 @@
+{
+  "name": "hicdelectus",
+  "version": "1.0.0",
+  "description": "QuarkChain wrapper over Ethereum web3",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorenaDavis/hicdelectus.git"
+  },
+  "keywords": [
+    "illo",
+    "ipsa",
+    "javascript"
+  ],
+  "author": "LonnyDonnelly",
+  "license": "LGPL-3.0",
+  "homepage": "https://github.com/LorenaDavis/hicdelectus.git",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "ndb": "^1.0.18",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "ethereum-common": "0.0.18",
+    "ethereumjs-util": "^5.2.0",
+    "web3": "^0.20.3"
+  }
+}
